@@ -1,0 +1,10 @@
+{
+  "project": "REALESTATE_PRICE_PREDICTION",
+  "category": "REAL_ESTATE",
+  "path": "E:\\fenta\\Downloads\\The Anticloud\\ANTICLOUD_REPOS\\REAL_ESTATE\\REALESTATE_PRICE_PREDICTION",
+  "status": "failed",
+  "reason": "zero metrics (files=15, loc=0)",
+  "files_count": 15,
+  "lines_of_code": 0,
+  "sha": "14c61ee1d5b901ad173ebc030edcfa733df6c954"
+}
