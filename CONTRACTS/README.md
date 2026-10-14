@@ -1,0 +1,28 @@
+# Contracts — REALESTATE_PRICE_PREDICTION
+
+**Project:** REALESTATE_PRICE_PREDICTION  
+**Category:** REAL_ESTATE  
+**Upstream:** see BENCH.json  
+**Pinned commit:** `14c61ee1d5b901ad173ebc030edcfa733df6c954`  
+**Assurance:** 16/16 checks passing  
+**Ledger head:** `fc3174d467a8a082da9a282bdfcbd7597cf87ef649e2e2bb21d5dd241412861e`  
+**Date:** October 2026
+
+## Available instruments
+
+| Instrument | Purpose | Where |
+|---|---|---|
+| Letter of Intent (General) | Personal, development, testing, academic use | `30_LOI` |
+| Letter of Intent (Enterprise) | Commercial, client-facing, regulated data | `30_LOI` |
+| Enterprise licence | SLA, whitelabel, OEM, support | `07_ENTERPRISE_LICENSE_AND_PRICING` |
+| One-time purchase order | Deployment of a hardened instance | on request |
+
+## Enterprise LOI
+
+Required where the deployment is commercial, client-facing, involves two or more
+employees, or processes regulated data. Subject line:
+`Enterprise LOI — [ORGANIZATION NAME] — [LICENSE TIER]`.
+
+## Contact
+
+lois@0-1.gg · 0-1.gg

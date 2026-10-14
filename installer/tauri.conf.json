@@ -1,0 +1,40 @@
+{
+  "build": {
+    "beforeDevCommand": "",
+    "beforeBuildCommand": "",
+    "devPath": "index.html",
+    "distDir": "."
+  },
+  "package": {
+    "productName": "REALESTATE_PRICE_PREDICTION",
+    "version": "1.0.0"
+  },
+  "tauri": {
+    "allowlist": {
+      "all": false,
+      "shell": {
+        "open": true
+      }
+    },
+    "bundle": {
+      "active": true,
+      "targets": "all",
+      "identifier": "gg.anticloud.realestate_price_prediction",
+      "category": "DeveloperTool",
+      "shortDescription": "REALESTATE_PRICE_PREDICTION \u2014 Anticloud Sovereign AI Infrastructure",
+      "longDescription": "Installer for REALESTATE_PRICE_PREDICTION, part of the Anticloud sovereign AI infrastructure stack"
+    },
+    "security": {
+      "csp": null
+    },
+    "windows": [
+      {
+        "title": "REALESTATE_PRICE_PREDICTION Installer",
+        "width": 900,
+        "height": 700,
+        "resizable": true,
+        "fullscreen": false
+      }
+    ]
+  }
+}
